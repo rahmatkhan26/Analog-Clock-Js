@@ -1,4 +1,5 @@
-https://github.com/rahmatkhan26/Analog-Clock-Js/assets/143212917/fa48eeb9-66cf-4c63-b547-7a84a01e42ee
+https://github.com/rahmatkhan26/Analog-Clock-Js/assets/143212917/b1528e49-5ade-4eb8-8b5d-8ee87ef544d4
+
 
 # Analog clock
 
